@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+}
+
+body {
+    margin: 100px;
+    text-align: center;
+}
+
+.container{
+    color: rgb(40, 40, 63);
+    
+}
+
+#pincode {
+    padding: 8px;
+    border: 2px solid rgb(40, 40, 63);
+    border-radius: 10px;
+}
+
+#submit {
+    padding: 8px;
+    border-radius: 5px;
+    color: bisque;
+    background-color: rgb(40, 40, 63);
+    cursor: pointer;
+}
